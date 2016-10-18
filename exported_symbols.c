@@ -5,7 +5,7 @@
  */
 
 #include <seccomp.h>
-#include "exported_symbols.h"
+#include "inc/exported_symbols.h"
 
 void seccomplite_export_constants(PyObject *module) {
   // Actions

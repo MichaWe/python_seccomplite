@@ -7,13 +7,13 @@
 #include <Python.h>
 #include <seccomp.h>
 #include "structmember.h"
-#include "config.h"
-#include "seccomplite.h"
-#include "exported_symbols.h"
-#include "arch.h"
-#include "attr.h"
-#include "arg.h"
-#include "filter.h"
+#include "inc/config.h"
+#include "inc/seccomplite.h"
+#include "inc/exported_symbols.h"
+#include "inc/arch.h"
+#include "inc/attr.h"
+#include "inc/arg.h"
+#include "inc/filter.h"
 
 /**
  * All exported methods

@@ -21,7 +21,7 @@ with open(path.join(pwd, 'README'), encoding='utf-8') as f:
 MODULE_NAME = 'seccomplite'
 MAJOR_VERSION = '0'
 MINOR_VERSION = '1'
-DEVELOP_VERSION = '0a1'
+DEVELOP_VERSION = '0a2'
 MODULE_DESCRIPTION = 'lightweight libseccomp2 python bridge'
 
 # We only export one module

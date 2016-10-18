@@ -6,8 +6,8 @@
 #include <Python.h>
 #include <seccomp.h>
 #include <stdint.h>
-#include "arch.h"
-#include "seccomplite.h"
+#include "inc/arch.h"
+#include "inc/seccomplite.h"
 
 /**
  * Arch type member and methods definitions

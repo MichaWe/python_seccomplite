@@ -6,9 +6,9 @@
 #include <Python.h>
 #include <seccomp.h>
 #include <stdint.h>
-#include "attr.h"
-#include "config.h"
-#include "seccomplite.h"
+#include "inc/attr.h"
+#include "inc/config.h"
+#include "inc/seccomplite.h"
 
 /**
  * Arch type slots definitions

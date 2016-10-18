@@ -6,11 +6,11 @@
 #include <Python.h>
 #include <seccomp.h>
 #include <stdint.h>
-#include "config.h"
-#include "filter.h"
-#include "seccomplite.h"
-#include "arch.h"
-#include "arg.h"
+#include "inc/config.h"
+#include "inc/filter.h"
+#include "inc/seccomplite.h"
+#include "inc/arch.h"
+#include "inc/arg.h"
 
 /**
  * Filter type member and methods definitions

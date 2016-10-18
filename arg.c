@@ -6,9 +6,9 @@
 #include <Python.h>
 #include <seccomp.h>
 #include <stdint.h>
-#include "config.h"
-#include "arg.h"
-#include "seccomplite.h"
+#include "inc/config.h"
+#include "inc/arg.h"
+#include "inc/seccomplite.h"
 
 /**
  * Arg type member and methods definitions

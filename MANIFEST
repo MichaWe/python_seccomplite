@@ -8,3 +8,10 @@ exported_symbols.c
 filter.c
 seccomplite.c
 setup.py
+inc/arch.h
+inc/arg.h
+inc/attr.h
+inc/config.h
+inc/exported_symbols.h
+inc/filter.h
+inc/seccomplite.h
